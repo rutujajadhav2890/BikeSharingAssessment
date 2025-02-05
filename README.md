@@ -81,4 +81,4 @@ This project was created as a case study for IITB Machine Learning and AI progra
 
 ## Contact
 
-Created by [@rutujaj289](#@rutujajadhav2890) - feel free to contact me!
+Created by [(@rutujajadhav2890) - feel free to contact me!
